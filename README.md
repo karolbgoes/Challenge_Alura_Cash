@@ -6,7 +6,7 @@ Vamos lá?
 
 **Boas-vindas!**
 
-Somos uma equipe de dados que foi contratada para fazer parte do banco digital internacional chamado Alura Cash . No primeiro dia, a diretoria financeira nos convoca para uma reunião, estão surgindo surgindo pessoas inadimplentes após a liberação de créditos.
+Me chamo Karol, faço parte da equipe de cientistas de dados que foi contratada para fazer parte do banco digital internacional chamado Alura Cash . No primeiro dia, a diretoria financeira nos convoca para uma reunião, estão surgindo surgindo pessoas inadimplentes após a liberação de créditos.
 
 Por conta disso, foi solicitado para minimizar as despesas que foram planejadas por pessoas mutuárias não quitam suas dívidas. Nós também informamos que teríamos o prazo de um mês para encontrar essa solução financeira e apresentá-la à diretoria financeira. Sendo assim, solicitamos um conjunto de contendo informações de clientes, da declaração de dados ou histórico de crédito, bem como se a pessoa mutuária é inadimplente.
 
