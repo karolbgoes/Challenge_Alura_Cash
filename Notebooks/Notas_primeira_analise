@@ -1,0 +1,8 @@
+Anotações - Primeira Semana
+
+- Nesta primeira análise da base de dados disponibilizada, utilizei tanto de forma simples pandas e o numpy através do google colab 
+quanto a importação desta base para o MySQL Workbench.
+
+- Nesta segunda opção organizei toda a base, verifiquei as inconsistencias (valores nulos) porém não os removi da base,
+analisei os tipos de dados, uni todas as tabelas através de joins e exportei em csv para as devidas analises que serão realizadas
+a seguir.
