@@ -6,11 +6,9 @@ Vamos lá?
 
 **Boas-vindas!**
 
-Você foi contratado(a) como pessoa cientista de dados para trabalhar em um banco digital internacional chamado **Alura Cash**.
+Somos uma equipe de dados que foi contratada para fazer parte do banco digital internacional chamado Alura Cash . No primeiro dia, a diretoria financeira nos convoca para uma reunião, estão surgindo surgindo pessoas inadimplentes após a liberação de créditos.
 
-**Alura Cash - Banco digital internacional**
-
- Na primeira reunião do seu novo trabalho, a diretoria financeira informa que, recorrentemente, estão surgindo pessoas inadimplentes após a liberação de créditos. Portanto, é solicitada uma solução para que seja possível diminuir as perdas financeiras por conta de pessoas mutuarias que não quitam suas dívidas.
+Por conta disso, foi solicitado para minimizar as despesas que foram planejadas por pessoas mutuárias não quitam suas dívidas. Nós também informamos que teríamos o prazo de um mês para encontrar essa solução financeira e apresentá-la à diretoria financeira. Sendo assim, solicitamos um conjunto de contendo informações de clientes, da declaração de dados ou histórico de crédito, bem como se a pessoa mutuária é inadimplente.
 
 ### Problema
 
